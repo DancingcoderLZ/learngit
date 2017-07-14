@@ -7,5 +7,4 @@
 \f0\fs24 \cf0 git
 \f1 \'b7\'d6\'b2\'bc\'ca\'bd\'b0\'e6\'b1\'be\'b9\'dc\'c0\'ed\'b9\'a4\'be\'df
 \f0 \
-
-\f1 \'d1\'a7\'c1\'cb\'d3\'c3\'c1\'cb\'b2\'c5\'d6\'aa\'d5\'e6\'ca\'c7\'ba\'c3\'d3\'c3}
+}
